@@ -4,8 +4,6 @@ Custom Slack themes inspired by the **Kanagawa.nvim** colorscheme.
 
 **Slack → Preferences → Appearance → Custom Theme → Import**
 
----
-
 ## 🌊 Kanagawa — Wave
 
 **Theme string:** `#1F1F28, #223249, #76946A, #C34043`
